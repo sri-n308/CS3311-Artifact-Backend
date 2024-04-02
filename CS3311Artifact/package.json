@@ -1,0 +1,16 @@
+{
+  "name": "cs3311artifact",
+  "version": "1.0.0",
+  "description": "artifact for cs3311",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongo": "^0.1.0",
+    "mongoose": "^8.2.4"
+  }
+}
